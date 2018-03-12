@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Employee" />
+        <module name="EmployeeViolation" />
+        <module name="hourly" />
+        <module name="hourlyViolation" />
+        <module name="mainPoly" />
+        <module name="mainPolyViolation" />
+        <module name="Salary" />
+        <module name="SalaryViolation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Employee" target="1.5" />
+      <module name="EmployeeViolation" target="1.5" />
+      <module name="hourly" target="1.5" />
+      <module name="hourlyViolation" target="1.5" />
+      <module name="mainPoly" target="1.5" />
+      <module name="mainPolyViolation" target="1.5" />
+      <module name="Question 4" target="1.5" />
+      <module name="Salary" target="1.5" />
+      <module name="SalaryViolation" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
