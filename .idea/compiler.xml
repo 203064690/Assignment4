@@ -24,6 +24,7 @@
       <module name="mainPoly" target="1.5" />
       <module name="mainPolyViolation" target="1.5" />
       <module name="Question 4" target="1.5" />
+      <module name="Question 4_2" target="1.5" />
       <module name="Salary" target="1.5" />
       <module name="SalaryViolation" target="1.5" />
     </bytecodeTargetLevel>
